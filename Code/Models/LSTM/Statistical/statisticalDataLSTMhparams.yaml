@@ -1,0 +1,4 @@
+---
+neuron_count: 100
+n_features: 1
+output_neuron: 6
