@@ -125,7 +125,7 @@ pp: Percentage Point
 
 Metin Usta - metin.usta01@hotmail.com
 
-Mehmet Yiğit - 
+Mehmet Yiğit - mehmet.ygt@std.yildiz.edu.tr
 
 Project Link: [https://github.com/MetinUsta/Time-Series-To-Image-Classification](https://github.com/MetinUsta/Time-Series-To-Image-Classification)
 
